@@ -1,0 +1,13 @@
+C:\Users\Luqman\Desktop\informatica\tassonomie\tassonomie\bin\Debug\tassonomie.exe.config
+C:\Users\Linguistico\Desktop\tassonomie\tassonomie\bin\Debug\tassonomie.exe.config
+C:\Users\Linguistico\Desktop\tassonomie\tassonomie\obj\Debug\tassonomie.csprojResolveAssemblyReference.cache
+C:\Users\Linguistico\Desktop\tassonomie\tassonomie\bin\Debug\tassonomie.exe
+C:\Users\Linguistico\Desktop\tassonomie\tassonomie\bin\Debug\tassonomie.pdb
+C:\Users\Linguistico\Desktop\tassonomie\tassonomie\obj\Debug\tassonomie.exe
+C:\Users\Linguistico\Desktop\tassonomie\tassonomie\obj\Debug\tassonomie.pdb
+F:\tassonomie\tassonomie\bin\Debug\tassonomie.exe.config
+F:\tassonomie\tassonomie\obj\Debug\tassonomie.exe
+F:\tassonomie\tassonomie\obj\Debug\tassonomie.pdb
+C:\Users\Luqman\Desktop\p.tassonomie\Tassonomie\tassonomie progetto\tassonomie\bin\Debug\tassonomie.exe.config
+C:\Users\Luqman\Desktop\p.tassonomie\Tassonomie\tassonomie progetto\tassonomie\obj\Debug\tassonomie.exe
+C:\Users\Luqman\Desktop\p.tassonomie\Tassonomie\tassonomie progetto\tassonomie\obj\Debug\tassonomie.pdb
