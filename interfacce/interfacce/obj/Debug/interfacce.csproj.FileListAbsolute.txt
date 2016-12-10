@@ -1,0 +1,6 @@
+C:\Users\Luqman\Desktop\interfacce\interfacce\bin\Debug\interfacce.exe.config
+C:\Users\Luqman\Desktop\interfacce\interfacce\obj\Debug\interfacce.csprojResolveAssemblyReference.cache
+C:\Users\Luqman\Desktop\interfacce\interfacce\bin\Debug\interfacce.exe
+C:\Users\Luqman\Desktop\interfacce\interfacce\bin\Debug\interfacce.pdb
+C:\Users\Luqman\Desktop\interfacce\interfacce\obj\Debug\interfacce.exe
+C:\Users\Luqman\Desktop\interfacce\interfacce\obj\Debug\interfacce.pdb
